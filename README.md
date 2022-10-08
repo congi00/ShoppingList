@@ -2,10 +2,10 @@
 
 ## Initial settings
 
-Before start the application you need to type those command in the project folder: 
+Before start the application you need: 
 
-### - npm install @mui/material @emotion/react @emotion/styled
-### - npm install @mui/icons-material
+### - Node version equal or more then 16
+### - Run `npm install`
 
 
 ## Available Scripts
