@@ -1,5 +1,13 @@
 # Getting Started with Shopping List App
 
+## Initial settings
+
+Before start the application you need to type those command in the project folder: 
+
+### - npm install @mui/material @emotion/react @emotion/styled
+### - npm install @mui/icons-material
+
+
 ## Available Scripts
 
 In the project directory, you can run:
